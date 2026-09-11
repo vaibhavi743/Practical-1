@@ -1,0 +1,151 @@
+TransactionID,Date,User_ID,Book_Title,Genre,Borrowing_Duration_Days
+T001,2026-01-29,U002,Sapiens,History,26
+T002,2026-03-04,U015,The Great Gatsby,Classic,7
+T003,2026-01-27,U044,The Psychology of Money,Finance,26
+T004,2026-05-20,U006,Sherlock Holmes,Mystery,21
+T005,2026-01-09,U002,The Hobbit,Fantasy,5
+T006,2026-03-01,U033,Pride and Prejudice,Romance,22
+T007,2026-05-24,U013,The Alchemist,Fiction,25
+T008,2026-06-29,U035,Sapiens,History,16
+T009,2026-04-25,U038,Pride and Prejudice,Romance,11
+T010,2026-08-11,U001,Wings of Fire,Biography,27
+T011,2026-02-10,U045,Wings of Fire,Biography,16
+T012,2026-03-13,U010,Harry Potter,Fantasy,9
+T013,2026-03-28,U007,Wings of Fire,Biography,5
+T014,2026-01-25,U023,The Hobbit,Fantasy,30
+T015,2026-06-04,U017,Harry Potter,Fantasy,28
+T016,2026-07-06,U030,The Alchemist,Fiction,20
+T017,2026-08-25,U025,To Kill a Mockingbird,Fiction,5
+T018,2026-03-17,U041,Rich Dad Poor Dad,Finance,22
+T019,2026-08-09,U024,Sherlock Holmes,Mystery,21
+T020,2026-06-30,U005,Pride and Prejudice,Romance,4
+T021,2026-02-28,U050,Sapiens,History,12
+T022,2026-08-07,U015,To Kill a Mockingbird,Fiction,30
+T023,2026-04-08,U018,To Kill a Mockingbird,Fiction,17
+T024,2026-08-02,U024,Sapiens,History,8
+T025,2026-04-01,U014,Harry Potter,Fantasy,24
+T026,2026-06-29,U044,The Great Gatsby,Classic,23
+T027,2026-06-05,U041,To Kill a Mockingbird,Fiction,8
+T028,2026-07-06,U016,Rich Dad Poor Dad,Finance,8
+T029,2026-04-08,U018,Atomic Habits,Self-Help,23
+T030,2026-05-23,U015,The Psychology of Money,Finance,24
+T031,2026-08-04,U050,Harry Potter,Fantasy,27
+T032,2026-02-28,U003,The Alchemist,Fiction,28
+T033,2026-04-13,U018,Harry Potter,Fantasy,5
+T034,2026-08-22,U037,Pride and Prejudice,Romance,25
+T035,2026-02-24,U042,Harry Potter,Fantasy,18
+T036,2026-08-15,U042,The Hobbit,Fantasy,17
+T037,2026-03-09,U009,1984,Dystopian,10
+T038,2026-05-24,U035,The Psychology of Money,Finance,11
+T039,2026-05-30,U028,The Psychology of Money,Finance,21
+T040,2026-04-03,U015,The Hobbit,Fantasy,7
+T041,2026-05-07,U006,Rich Dad Poor Dad,Finance,27
+T042,2026-08-09,U008,The Alchemist,Fiction,7
+T043,2026-02-10,U044,Sapiens,History,16
+T044,2026-01-17,U025,Ikigai,Self-Help,15
+T045,2026-04-30,U034,Ikigai,Self-Help,11
+T046,2026-08-09,U001,Rich Dad Poor Dad,Finance,24
+T047,2026-01-30,U044,The Psychology of Money,Finance,20
+T048,2026-03-10,U050,Wings of Fire,Biography,23
+T049,2026-01-29,U019,Harry Potter,Fantasy,16
+T050,2026-04-27,U001,1984,Dystopian,26
+T051,2026-07-04,U017,Sherlock Holmes,Mystery,19
+T052,2026-02-15,U033,Wings of Fire,Biography,6
+T053,2026-06-10,U020,The Book Thief,Historical Fiction,29
+T054,2026-05-10,U039,Sapiens,History,9
+T055,2026-04-06,U049,1984,Dystopian,8
+T056,2026-07-19,U034,Rich Dad Poor Dad,Finance,3
+T057,2026-03-24,U032,Ikigai,Self-Help,3
+T058,2026-08-26,U024,To Kill a Mockingbird,Fiction,29
+T059,2026-03-20,U016,Wings of Fire,Biography,4
+T060,2026-08-13,U037,Pride and Prejudice,Romance,5
+T061,2026-07-07,U032,To Kill a Mockingbird,Fiction,29
+T062,2026-07-14,U035,To Kill a Mockingbird,Fiction,27
+T063,2026-02-02,U043,1984,Dystopian,18
+T064,2026-02-12,U017,Rich Dad Poor Dad,Finance,19
+T065,2026-06-05,U028,The Book Thief,Historical Fiction,9
+T066,2026-05-19,U049,Sherlock Holmes,Mystery,26
+T067,2026-02-21,U046,The Psychology of Money,Finance,12
+T068,2026-06-21,U042,The Hobbit,Fantasy,14
+T069,2026-08-19,U034,Atomic Habits,Self-Help,17
+T070,2026-03-05,U015,To Kill a Mockingbird,Fiction,5
+T071,2026-01-06,U038,Harry Potter,Fantasy,20
+T072,2026-05-31,U015,Pride and Prejudice,Romance,3
+T073,2026-07-01,U041,To Kill a Mockingbird,Fiction,4
+T074,2026-01-18,U003,Pride and Prejudice,Romance,30
+T075,2026-01-19,U033,Harry Potter,Fantasy,10
+T076,2026-06-21,U032,The Great Gatsby,Classic,9
+T077,2026-02-03,U047,Rich Dad Poor Dad,Finance,21
+T078,2026-05-02,U016,Ikigai,Self-Help,28
+T079,2026-07-26,U027,Atomic Habits,Self-Help,9
+T080,2026-01-25,U043,To Kill a Mockingbird,Fiction,16
+T081,2026-04-19,U027,Harry Potter,Fantasy,17
+T082,2026-07-06,U004,The Book Thief,Historical Fiction,24
+T083,2026-06-15,U007,Sapiens,History,4
+T084,2026-07-06,U022,The Hobbit,Fantasy,28
+T085,2026-01-28,U016,The Book Thief,Historical Fiction,9
+T086,2026-05-18,U029,Pride and Prejudice,Romance,7
+T087,2026-02-16,U018,The Hobbit,Fantasy,17
+T088,2026-08-12,U005,Pride and Prejudice,Romance,17
+T089,2026-08-09,U036,Wings of Fire,Biography,6
+T090,2026-06-16,U035,The Alchemist,Fiction,29
+T091,2026-01-24,U049,The Alchemist,Fiction,30
+T092,2026-02-12,U027,Pride and Prejudice,Romance,18
+T093,2026-02-24,U026,Atomic Habits,Self-Help,4
+T094,2026-04-08,U001,1984,Dystopian,15
+T095,2026-08-26,U030,The Great Gatsby,Classic,12
+T096,2026-06-28,U047,The Hobbit,Fantasy,28
+T097,2026-06-19,U046,Rich Dad Poor Dad,Finance,18
+T098,2026-02-18,U019,1984,Dystopian,9
+T099,2026-05-29,U048,The Alchemist,Fiction,20
+T100,2026-07-11,U021,The Alchemist,Fiction,4
+T101,2026-05-30,U031,The Alchemist,Fiction,19
+T102,2026-08-07,U034,Sherlock Holmes,Mystery,8
+T103,2026-05-11,U006,The Alchemist,Fiction,30
+T104,2026-01-18,U039,1984,Dystopian,5
+T105,2026-08-09,U016,Sapiens,History,15
+T106,2026-08-16,U037,To Kill a Mockingbird,Fiction,10
+T107,2026-06-02,U003,Ikigai,Self-Help,22
+T108,2026-04-18,U043,To Kill a Mockingbird,Fiction,21
+T109,2026-05-14,U021,Ikigai,Self-Help,11
+T110,2026-06-21,U046,Pride and Prejudice,Romance,13
+T111,2026-03-09,U026,Pride and Prejudice,Romance,7
+T112,2026-06-15,U020,Sapiens,History,17
+T113,2026-08-26,U049,Harry Potter,Fantasy,5
+T114,2026-04-28,U040,The Alchemist,Fiction,21
+T115,2026-01-19,U035,To Kill a Mockingbird,Fiction,9
+T116,2026-03-09,U009,Rich Dad Poor Dad,Finance,14
+T117,2026-01-18,U016,Sherlock Holmes,Mystery,14
+T118,2026-02-10,U029,The Great Gatsby,Classic,29
+T119,2026-06-30,U020,Rich Dad Poor Dad,Finance,22
+T120,2026-06-17,U034,Wings of Fire,Biography,3
+T121,2026-07-29,U036,Sapiens,History,12
+T122,2026-06-19,U007,Sherlock Holmes,Mystery,7
+T123,2026-01-30,U007,The Great Gatsby,Classic,26
+T124,2026-02-09,U018,Rich Dad Poor Dad,Finance,12
+T125,2026-02-23,U046,Ikigai,Self-Help,13
+T126,2026-06-25,U041,Pride and Prejudice,Romance,30
+T127,2026-05-10,U032,The Great Gatsby,Classic,11
+T128,2026-08-21,U004,Sherlock Holmes,Mystery,5
+T129,2026-04-19,U018,Sapiens,History,4
+T130,2026-03-27,U050,The Alchemist,Fiction,7
+T131,2026-03-09,U011,Sapiens,History,26
+T132,2026-05-22,U046,Atomic Habits,Self-Help,16
+T133,2026-01-03,U008,Rich Dad Poor Dad,Finance,5
+T134,2026-06-26,U010,Sherlock Holmes,Mystery,20
+T135,2026-08-02,U024,The Alchemist,Fiction,21
+T136,2026-02-07,U028,Rich Dad Poor Dad,Finance,7
+T137,2026-03-20,U024,The Alchemist,Fiction,28
+T138,2026-01-11,U023,The Book Thief,Historical Fiction,9
+T139,2026-03-05,U043,Sapiens,History,6
+T140,2026-07-19,U036,Harry Potter,Fantasy,30
+T141,2026-06-08,U048,The Hobbit,Fantasy,7
+T142,2026-08-27,U016,Sherlock Holmes,Mystery,30
+T143,2026-07-24,U012,1984,Dystopian,16
+T144,2026-02-15,U048,The Alchemist,Fiction,13
+T145,2026-08-27,U027,Wings of Fire,Biography,28
+T146,2026-08-10,U048,Sapiens,History,28
+T147,2026-03-10,U011,Pride and Prejudice,Romance,28
+T148,2026-01-28,U025,The Psychology of Money,Finance,30
+T149,2026-08-08,U031,The Alchemist,Fiction,10
+T150,2026-07-29,U030,Pride and Prejudice,Romance,14
